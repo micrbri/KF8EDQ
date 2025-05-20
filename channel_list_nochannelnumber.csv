@@ -1,316 +1,320 @@
-Channel Alias,Rx Frequency,Tx Frequency,Tx Power,TOT,VOX,VOX Level,Scan Add/Step,Channel Work Alone,Default to Talkaround,Band Width,Dec QT/DQT,Enc QT/DQT,Tx Authority,Relay,PTT ID,Opt.Signal,DTMF Code Group,Work Mode,Slot,ID Setting,Color Code,Encryption,Encryption Type,Encryption Key,Promiscuous,Tx Authority,Kill Code,WakeUp Code,Contacts,Rx Group Lists,,Group Lists 1,Group Lists 2,Group Lists 3,Group Lists 4,Group Lists 5,Group Lists 6,Group Lists 7,Group Lists 8,Group Lists 9,Group Lists 10,Group Lists 11,Group Lists 12,Group Lists 13,Group Lists 14,Group Lists 15,Group Lists 16,Group Lists 17,Group Lists 18,Group Lists 19,Group Lists 20,Group Lists 21,Group Lists 22,Group Lists 23,Group Lists 24,Group Lists 25,Group Lists 26,Group Lists 27,Group Lists 28,Group Lists 29,Group Lists 30,Group Lists 31,Group Lists 32,Group Lists 33,GPS,Send GPS Info
-Channel Type,Channel Alias,Rx Frequency,Tx Frequency,Tx Power,TOT,VOX,VOX Level,Scan Add/Step,Channel Work Alone,Default to Talkaround,Band Width,Dec QT/DQT,Enc QT/DQT,Tx Authority,Relay,PTT ID,Opt.Signal,DTMF Code Group,Work Mode,Slot,ID Setting,Color Code,Encryption,Encryption Type,Encryption Key,Promiscuous,Tx Authority,Kill Code,WakeUp Code,Contacts,Rx Group Lists,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,K8DAC,147.24,147.84,High,180S,No,2,6.25K,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,,0,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,80,None
-Analog CH,N8ERL,145.33,144.73,High,180S,No,2,2.5K,No,No,25K,88.5,88.5,Allow TX,No,Simplex,Slot1,,0,No,Normal Mode,1,No,No,Always,None,None,Address Book Contacts: 104001,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,FRS1,462.5625,462.5625,High,180S,No,1,No,No,No,25K,67,67,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,FRS2,462.5875,462.5875,High,180S,No,1,No,No,No,25K,118.8,118.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,FRS3,462.6125,462.6125,High,180S,No,1,No,No,No,25K,127.3,127.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,FRS4,462.6375,462.6375,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,FRS5,462.6625,462.6625,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS6,462.6875,462.6875,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS7,462.7125,462.7125,High,180S,No,1,No,No,No,25K,146.2,146.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS8,462.5625,462.5625,Low,180S,No,1,No,No,No,12.5K,D243N,D243N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS9,467.5875,467.5875,Low,180S,No,1,No,No,No,12.5K,D032N,D032N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS10,467.6125,467.6125,Low,180S,No,1,No,No,No,12.5K,D047N,D047N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS11,467.6375,467.6375,Low,180S,No,1,No,No,No,12.5K,D051N,D051N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Analog CH,GMRS12,467.6625,467.6625,Low,180S,No,1,No,No,No,12.5K,D053N,D053N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS13,467.6875,467.6875,Low,180S,No,1,No,No,No,12.5K,D065N,D065N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS14,467.7125,467.7125,Low,180S,No,1,No,No,No,12.5K,D116N,D116N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS15,462.55,462.55,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS16,462.575,462.575,High,180S,No,1,Yes,No,No,25K,D743I,D743I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS17,462.6,462.6,High,180S,No,1,No,No,No,25K,D332I,D332I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS18,462.625,462.625,High,180S,No,1,No,No,No,25K,127.3,127.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS19,462.65,462.65,High,180S,No,1,No,No,No,25K,D243I,D243I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS20,462.675,462.675,High,180S,No,1,No,No,No,25K,D606N,D606N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS21,462.7,462.7,High,180S,No,1,No,No,No,25K,D731I,D731I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,Yes,OFF,
-Analog CH,GMRS22,462.725,462.725,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS23,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS24,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Analog CH,GMRS25,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS26,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-Analog CH,GMRS27,462.65,467.65,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Analog CH,GMRS28,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Analog CH,GMRS29,462.7,467.7,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Analog CH,GMRS30,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Baldwin,462.55,467.55,High,180S,No,1,No,No,No,25K,D023N,D023N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Newaygo,462.55,467.55,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Grayling,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Mayville,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Madison Heights,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Jackson,462.55,467.55,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Barryton,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Lansing,462.55,467.55,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Saginaw,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Troy,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Mancelona,462.575,467.575,High,180S,No,1,No,No,No,25K,192.8,192.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Seney,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Lincoln,462.575,467.575,High,180S,No,1,No,No,No,25K,D243N,D243N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Almont,462.6,467.6,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Detroit,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Traverse City,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Moline,462.6,467.6,High,180S,No,1,No,No,No,25K,94.8,94.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Tompkins,462.6,467.6,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Iron Mt.,462.6,467.6,High,180S,No,1,No,No,No,25K,123,103.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Mayville,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Detroit,462.625,467.625,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Baldwin-Pleas,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,St. Helen,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Petoskey,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Detroit,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Bay City,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Eaton Rapids,462.625,467.625,High,180S,No,1,No,No,No,25K,162.2,162.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Newberry,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Grand Ledge,462.625,467.625,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Ferndale,462.675,467.675,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Shelby,462.675,467.675,High,180S,No,1,No,No,No,25K,71.9,71.9,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Mason,462.675,467.675,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Mt. Clemens,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Roscommon,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Grayling,462.7,467.7,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Ann Arbor,462.7,467.7,High,180S,No,1,No,No,No,25K,203.5,203.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Middleville,462.7,467.7,High,180S,No,1,No,No,No,25K,146.2,146.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Hesperia,462.725,467.725,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Flint,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,East Jordan,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Charlotte,462.725,467.725,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Analog CH,Lewiston,462.725,467.725,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bancroft,443.3125,448.3125,High,240S,No,1,Yes,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Bay City,443.8125,448.8125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Burnside,443.1125,448.1125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Byron Center,444.625,449.625,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Cass City,442.0875,447.0875,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Dansville,444.7,449.7,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Detroit,444,449,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Fenton,443.925,448.925,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Flint,443.3875,448.3875,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Frankenmuth,444.25,449.25,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Grand Haven,443.6,448.6,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Grand Rapids,444.25,449.25,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Grass Lake,443.8125,448.8125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Greenville,443.3875,448.3875,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Hackleburg,442.0875,447.0875,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Hamilton,443.925,448.925,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-James Slot 2,443.6,448.6,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot2,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,Address Book Contacts: 2,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-James Slot 1,443.6,448.6,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,Address Book Contacts: 1,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Lansing,442.0875,447.0875,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Lincoln,442.0125,447.0125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Lowell,443.1125,448.1125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Mayville,443.85,448.85,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Midland,443.95,448.95,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Milan,443.1125,448.1125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Mio,444.7,449.7,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Muskegon,444.95,449.95,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Morley,442.2125,447.2125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Mt. Clemens,443.95,448.95,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Novi,442.2125,447.2125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Petoskey,444.25,449.25,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Pinconning,444.625,449.625,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Southgate,443.325,448.325,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Shepherd,442.0125,447.0125,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-West Olive,443.575,448.575,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,No,OFF,None
-Traverse Cit,444.35,449.35,High,75S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Traverse City,444.35,449.35,High,180S,No,1,No,No,No,25K,107.2,107.2,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Sag-K8DAC,147.24,147.84,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Sag-N8ERL,145.33,144.73,High,180S,No,1,No,No,No,25K,88.5,88.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Burt,442.2,447.2,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Frankenmuth,444.025,449.025,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000001,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Bay City,444.5,449.5,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000002,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Bay County,147.36,147.96,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000003,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Gilford,147.32,147.92,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000004,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Gilford,145.31,144.71,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000005,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Clio,444.375,449.375,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000006,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Clio,443.4,448.4,High,180S,No,1,No,No,No,25K,156.7,156.7,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000007,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Midland Soccer,147,147.6,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000008,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Watrousville,442.5,447.5,High,180S,No,1,No,No,No,25K,91.5,91.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000009,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
-Millington,444.65,449.65,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000010,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Channel Type,Channel Alias,Rx Frequency,Tx Frequency,Tx Power,TOT,VOX,VOX Level,Scan Add/Step,Channel Work Alone,Default to Talkaround,Band Width,Dec QT/DQT,Enc QT/DQT,Tx Authority,Relay,PTT ID,Opt.Signal,DTMF Code Group,Work Mode,Slot,ID Setting,Color Code,Encryption,Encryption Type,Encryption Key,Promiscuous,Tx Authority,Kill Code,WakeUp Code,Contacts,Rx Group Lists,,Group Lists 1,Group Lists 2,Group Lists 3,Group Lists 4,Group Lists 5,Group Lists 6,Group Lists 7,Group Lists 8,Group Lists 9,Group Lists 10,Group Lists 11,Group Lists 12,Group Lists 13,Group Lists 14,Group Lists 15,Group Lists 16,Group Lists 17,Group Lists 18,Group Lists 19,Group Lists 20,Group Lists 21,Group Lists 22,Group Lists 23,Group Lists 24,Group Lists 25,Group Lists 26,Group Lists 27,Group Lists 28,Group Lists 29,Group Lists 30,Group Lists 31,Group Lists 32,Group Lists 33,GPS,Send GPS Info
+Analog CH,K8DAC,147.24,147.84,High,180S,No,2,6.25K,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,,0,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,N8ERL,145.33,144.73,High,180S,No,2,2.5K,No,No,25K,88.5,88.5,Allow TX,No,Simplex,Slot1,,0,No,Normal Mode,1,No,No,Always,None,None,Address Book Contacts: 104001,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,FRS1,462.5625,462.5625,High,180S,No,1,No,No,No,25K,67,67,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,FRS2,462.5875,462.5875,High,180S,No,1,No,No,No,25K,118.8,118.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,FRS3,462.6125,462.6125,High,180S,No,1,No,No,No,25K,127.3,127.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,FRS4,462.6375,462.6375,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,FRS5,462.6625,462.6625,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS6,462.6875,462.6875,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS7,462.7125,462.7125,High,180S,No,1,No,No,No,25K,146.2,146.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS8,462.5625,462.5625,Low,180S,No,1,No,No,No,12.5K,D243N,D243N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS9,467.5875,467.5875,Low,180S,No,1,No,No,No,12.5K,D032N,D032N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS10,467.6125,467.6125,Low,180S,No,1,No,No,No,12.5K,D047N,D047N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS11,467.6375,467.6375,Low,180S,No,1,No,No,No,12.5K,D051N,D051N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS12,467.6625,467.6625,Low,180S,No,1,No,No,No,12.5K,D053N,D053N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS13,467.6875,467.6875,Low,180S,No,1,No,No,No,12.5K,D065N,D065N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS14,467.7125,467.7125,Low,180S,No,1,No,No,No,12.5K,D116N,D116N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS15,462.55,462.55,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS16,462.575,462.575,High,180S,No,1,Yes,No,No,25K,D743I,D743I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS17,462.6,462.6,High,180S,No,1,No,No,No,25K,D332I,D332I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS18,462.625,462.625,High,180S,No,1,No,No,No,25K,127.3,127.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS19,462.65,462.65,High,180S,No,1,No,No,No,25K,D243I,D243I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS20,462.675,462.675,High,180S,No,1,No,No,No,25K,D606N,D606N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS21,462.7,462.7,High,180S,No,1,No,No,No,25K,D731I,D731I,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS22,462.725,462.725,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS23,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS24,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS25,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS26,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS27,462.65,467.65,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS28,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS29,462.7,467.7,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,GMRS30,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Baldwin,462.55,467.55,High,180S,No,1,No,No,No,25K,D023N,D023N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Newaygo,462.55,467.55,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Grayling,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Mayville,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Madison Heights,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Jackson,462.55,467.55,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Barryton,462.55,467.55,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Lansing,462.55,467.55,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Saginaw,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Troy,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Mancelona,462.575,467.575,High,180S,No,1,No,No,No,25K,192.8,192.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Seney,462.575,467.575,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Lincoln,462.575,467.575,High,180S,No,1,No,No,No,25K,D243N,D243N,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Almont,462.6,467.6,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Detroit,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Traverse City,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Moline,462.6,467.6,High,180S,No,1,No,No,No,25K,94.8,94.8,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Tompkins,462.6,467.6,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Iron Mt.,462.6,467.6,High,180S,No,1,No,No,No,25K,123,103.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Mayville,462.6,467.6,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Detroit,462.625,467.625,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Baldwin-Pleas,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,St. Helen,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Petoskey,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Detroit,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Bay City,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Eaton Rapids,462.625,467.625,High,180S,No,1,No,No,No,25K,162.2,162.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Newberry,462.625,467.625,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Grand Ledge,462.625,467.625,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Ferndale,462.675,467.675,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Shelby,462.675,467.675,High,180S,No,1,No,No,No,25K,71.9,71.9,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Mason,462.675,467.675,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Mt. Clemens,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Roscommon,462.675,467.675,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Grayling,462.7,467.7,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Ann Arbor,462.7,467.7,High,180S,No,1,No,No,No,25K,203.5,203.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Middleville,462.7,467.7,High,180S,No,1,No,No,No,25K,146.2,146.2,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Hesperia,462.725,467.725,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Flint,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,141.3,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,East Jordan,462.725,467.725,High,180S,No,1,No,No,No,25K,141.3,,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Charlotte,462.725,467.725,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Lewiston,462.725,467.725,High,180S,No,1,No,No,No,25K,136.5,136.5,Allow TX,No,Simplex,Slot1,,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Digital CH,Bancroft,443.3125,448.3125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Bay City,443.8125,448.8125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Burnside,443.1125,448.1125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Byron Center,444.625,449.625,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Cass City,442.0875,447.0875,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Dansville,444.7,449.7,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Detroit,444,449,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Fenton,443.925,448.925,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Flint,443.3875,448.3875,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Frankenmuth,444.25,449.25,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Grand Haven,443.6,448.6,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Grand Rapids,444.25,449.25,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Grass Lake,443.8125,448.8125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Greenville,443.3875,448.3875,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Hackleburg,442.0875,447.0875,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Hamilton,443.925,448.925,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,James Slot 2,443.6,448.6,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot2,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,James Slot 1,443.6,448.6,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Lansing,442.0875,447.0875,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Lincoln,442.0125,447.0125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Lowell,443.1125,448.1125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Mayville,443.85,448.85,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Midland,443.95,448.95,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Milan,443.1125,448.1125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Mio,444.7,449.7,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Muskegon,444.95,449.95,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Morley,442.2125,447.2125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Mt. Clemens,443.95,448.95,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Novi,442.2125,447.2125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Petoskey,444.25,449.25,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Pinconning,444.625,449.625,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Southgate,443.325,448.325,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Shepherd,442.0125,447.0125,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,West Olive,443.575,448.575,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Digital CH,Traverse Cit,444.35,449.35,High,240S,No,1,No,No,No,25K,None,None,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analog CH,Traverse City,444.35,449.35,High,180S,No,1,No,No,No,25K,107.2,107.2,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Sag-K8DAC,147.24,147.84,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Sag-N8ERL,145.33,144.73,High,180S,No,1,No,No,No,25K,88.5,88.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Burt,442.2,447.2,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Frankenmuth,444.025,449.025,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000001,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Bay City,444.5,449.5,High,180S,No,1,No,No,No,25K,123,123,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000002,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Bay County,147.36,147.96,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000003,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Gilford,147.32,147.92,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000004,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Gilford,145.31,144.71,High,180S,No,1,No,No,No,25K,131.8,131.8,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000005,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Clio,444.375,449.375,High,180S,No,1,No,No,No,25K,,,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000006,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Clio,443.4,448.4,High,180S,No,1,No,No,No,25K,156.7,156.7,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000007,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Midland Soccer,147,147.6,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000008,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Watrousville,442.5,447.5,High,180S,No,1,No,No,No,25K,91.5,91.5,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000009,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Millington,444.65,449.65,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot1,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000010,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Owosso,442.4,447.4,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot2,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Breckenridge,442.65,447.65,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot3,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Caro,146.66,146.06,High,180S,No,1,No,No,No,25K,100,100,Allow TX,No,Simplex,Slot4,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
+Analog CH,Caro,442.55,447.55,High,180S,No,1,No,No,No,25K,103.5,103.5,Allow TX,No,Simplex,Slot5,KF8EDQ,1,No,Normal Mode,1,No,No,Always,None,None,&H00000000,Custom,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,OFF,None
