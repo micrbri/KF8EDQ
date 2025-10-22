@@ -7,7 +7,7 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 6,FRS6,Analogue,	462.68750,	462.68750,25,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
 7,FRS7,Analogue,	462.71250,	462.71250,25,,,,,,,,146.2,146.2,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
 8,FRS8,Analogue,	467.56250,	467.56250,12.5,,,,,,,,D243N,D243N,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
-9,FRS9,Analogue,	467.58750,	467.58750,25,,,,,,,,D023N,D023N,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
+9,FRS9,Analogue,	467.58750,	467.58750,12.5,,,,,,,,D023N,D023N,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
 10,FRS10,Analogue,	467.61250,	467.61250,12.5,,,,,,,,D047N,D047N,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
 11,FRS11,Analogue,	467.63750,	467.63750,12.5,,,,,,,,D051N,D051N,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
 12,FRS12,Analogue,	467.66250,	467.66250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,0,Off,No,No,None,0.128,0.008,No
