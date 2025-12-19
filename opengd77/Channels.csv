@@ -71,8 +71,8 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 70,Bay Cty,Analogue,	444.50000,	449.50000,25,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 71,Bay County,Analogue,	147.36000,	147.96000,25,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 72,Midland Soccer,Analogue,	147.00000,	147.60000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
-73,Rose City,Analogue,	145.11000,	144.51000,25,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
-74,W. Branch,Analogue,	146.94000,	146.34000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+73,WB8ZIR-Barton Ci,Analogue,	145.49000,	144.89000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+74,W8SZ-Harrisville,Analogue,	147.04000,	147.64000,25,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 75,Traverse City,Analogue,	444.35000,	449.35000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 76,Munson 70cm,Analogue,	444.35000,	449.35000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 77,Munson 2m,Analogue,	147.25000,	147.85000,25,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
@@ -80,7 +80,7 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 79,W8IRA,Analogue,	145.15000,	144.55000,25,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 80,W8ACM2,Analogue,	147.34000,	147.94000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 81,W8ACM7,Analogue,	444.20000,	449.20000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
-82,IntSpaceStation,Analogue,	437.80000,	145.99000,25,,,,,,,,None,67.0,Disabled,Master,No,No,No,0,Off,No,No,None,43.4375,-84.0416,Yes
+82,IntSpaceStation,Analogue,	437.80000,	145.99000,25,,,,,,,,None,67.0,20%,P9,No,No,No,0,Off,No,No,None,43.4375,-84.0416,Yes
 83,K8UTT,Analogue,	145.27000,	144.67000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
 84,WR8DAR1,Analogue,	147.16000,	147.76000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 85,WR8DAR2,Analogue,	442.80000,	447.80000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
@@ -105,7 +105,7 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 104,KD8PA,Analogue,	442.42500,	447.42500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 105,KD8IFI1,Analogue,	442.52500,	447.52500,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 106,KD8IFI2,Analogue,	443.00000,	448.00000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
-107,W8BCI2,Analogue,	146.94000,	146.34000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+107,W8BCI-Lansing,Analogue,	146.94000,	146.34000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 108,W8MSU,Analogue,	442.90000,	447.90000,25,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 109,W8BCI3,Analogue,	145.39000,	144.79000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 110,N9UV,Analogue,	442.05000,	447.05000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
@@ -121,3 +121,107 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 120,N8UMW,Analogue,	442.00000,	447.00000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 121,W8JDE,Analogue,	444.37500,	449.37500,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
 122,KB5TOJ,Analogue,	443.40000,	448.40000,25,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+123,APRS_NA,Analogue,	144.39000,	144.39000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,APRS_NA,0.128,0.008,No
+124,APRS_Saginaw,Analogue,	145.09000,	145.09000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,APRS_Sag,0.128,0.008,No
+125,APRS_Simplex,Analogue,	446.52500,	446.52500,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+126,AllStar,Analogue,	446.32500,	446.32500,25,,,,,,,,67.0,67.0,Disabled,P5,No,No,No,0,Off,No,No,None,0.128,0.008,No
+127,AllStar1,Analogue,	146.67500,	446.55000,25,,,,,,,,167.9,167.9,Disabled,P5,No,No,No,0,Off,No,No,None,0.128,0.008,No
+128,Pi-star,Digital,	445.50000,	445.50000,,1,2,None,Brandmeister,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0,0,No
+129,Pi-star1,Digital,	445.60000,	445.60000,,1,2,None,Brandmeister,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0,0,No
+130,KB8SWR-Frankenmu,Analogue,	444.02500,	449.02500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+131,W8JDE-Clio,Analogue,	444.37500,	449.37500,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+132,KB8TOJ-Clio,Analogue,	443.40000,	448.40000,25,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+133,N8LFR-Bad Axe,Analogue,	145.47000,	144.87000,25,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+134,KA8WYN-Bad Axe,Analogue,	443.55000,	448.55000,25,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+135,K8NET-Pt. Hope,Analogue,	146.74000,	146.74000,25,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+136,W8AX-Sandusky,Analogue,	146.86000,	147.26000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+137,KC8CNN-Caro2,Analogue,	146.66000,	146.06000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+138,WA8CKT-Caro,Analogue,	146.82000,	146.22000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+139,KC8CNN-Caro7,Analogue,	442.55000,	447.55000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+140,NW8J-Gr. Rapids,Analogue,	145.11000,	144.51000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+141,W8DCF-Gr. Rapids,Analogue,	146.76000,	146.16000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+142,W8IRA-Gr. Rapids,Analogue,	147.16000,	147.76000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+143,W8DC-Gr. Rapids2,Analogue,	147.26000,	147.86000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+144,K8EFK-Gr. Rapids,Analogue,	442.00000,	447.00000,25,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+145,KR8T-Gr. Rapids,Analogue,	443.80000,	448.80000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+146,N8NET-Gr. Rapids,Analogue,	444.10000,	449.10000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+147,N8WKN-Gr. Rapids,Analogue,	444.32500,	449.32500,25,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+148,W8DC-Gr. Rapids7,Analogue,	444.40000,	449.40000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+149,K8WM-Gr. Rapids2,Analogue,	145.41000,	144.81000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+150,K8WM-Gr. Rapids7,Analogue,	444.77500,	449.77500,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+151,K8TB-Jenison,Analogue,	147.10000,	147.70000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+152,W8USA-Sparta,Analogue,	145.23000,	144.63000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+153,K8IHY-Hudsonvill,Analogue,	444.90000,	449.90000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+154,K8TB-Hudsonville,Analogue,	442.25000,	447.25000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+155,W8AGB-Mackinaw,Analogue,	145.11000,	144.51000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+156,WB8DEL-Cheboygan,Analogue,	444.85000,	449.85000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+157,N8BIT-Alpena,Analogue,	442.47500,	447.47500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+158,K8PA-Alpena,Analogue,	146.76000,	146.16000,25,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+159,N8IES-Durand2,Analogue,	145.29000,	144.69000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+160,N8IES-Durand7,Analogue,	442.62500,	447.62500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+161,W8LRK-Cohoctah,Analogue,	442.57500,	447.57500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+162,N8VDH-Owosso,Analogue,	147.02000,	147.62000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+163,W8QQQ-Owosso,Analogue,	442.40000,	447.40000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+164,KB8PGF-Fenton,Analogue,	443.97500,	448.97500,25,,,,,,,,67.0,67.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+165,K8EOC-Howell,Analogue,	146.50000,	147.50000,25,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+166,W8LRK-Howell2,Analogue,	146.68000,	147.08000,25,,,,,,,,162.2,162.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+167,W8LRK-Howell7,Analogue,	443.25000,	448.25000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+168,W8CMN-Fenton,Analogue,	146.78000,	146.18000,25,,,,,,,,151.4,151.4,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+169,KC8YGT-Fenton,Analogue,	443.20000,	448.20000,25,,,,,,,,151.4,151.4,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+170,W8LIV-Howell2,Analogue,	145.32000,	144.72000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+171,W8LIV-Howell7,Analogue,	444.03750,	449.03750,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+172,K8DDX-Mio,Analogue,	444.97500,	449.97500,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+173,N9KOP-Mio,Analogue,	145.35000,	144.75000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+174,N9KOP-Mio2,Analogue,	146.70000,	146.10000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+175,W8DMI-Rose City,Analogue,	145.11000,	144.51000,25,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+176,N8RSH-Lupton,Analogue,	147.08000,	147.68000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+177,N8AHZ-Grayling,Analogue,	145.13000,	144.53000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+178,N8QOP-Roscommon2,Analogue,	145.45000,	144.85000,25,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+179,N8QOP-Roscommon7,Analogue,	443.10000,	448.10000,25,,,,,,,,146.2,146.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+180,KE8OHG-Prudenvil,Analogue,	146.84000,	146.24000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+181,KE8GLB-HoughtonL,Analogue,	145.39000,	144.79000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+182,KE8VFY-HoughtonL,Analogue,	442.62500,	447.62500,25,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+183,KC8QVX-Harrison,Analogue,	444.90000,	449.90000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+184,NM8RC-Gaylord,Analogue,	146.82000,	146.22000,25,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+185,N8JNA-Gaylord,Analogue,	147.12000,	147.72000,25,,,,,,,,151.4,151.4,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+186,W8IRA-Vanderbilt,Analogue,	145.29000,	144.69000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+187,K8WQK-Mancelona7,Analogue,	442.80000,	447.80000,25,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+188,K8WQK-Mancelona2,Analogue,	147.38000,	147.98000,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+189,W8CCE-Cheboygan,Analogue,	146.74000,	146.14000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+190,KC8YGT-Alanson,Analogue,	443.20000,	448.20000,25,,,,,,,,151.4,151.4,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+191,W8CCE-Petoskey2,Analogue,	145.19000,	144.59000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+192,W8CCE-Petoskey7,Analogue,	443.37500,	448.37500,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+193,K8JBA-Howell,Analogue,	145.41000,	144.81000,25,,,,,,,,162.2,162.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+194,N8SL-S. Lyon,Analogue,	147.04000,	147.64000,25,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+195,N8SL-Milford,Analogue,	442.30000,	447.30000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+196,W8SRC-Dexter,Analogue,	446.15000,	441.15000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+197,AC8IL-Wixom,Analogue,	145.25000,	144.65000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+198,W8LRK-Howell,Analogue,	444.52500,	449.52500,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+199,W8IRA-Muskegon,Analogue,	145.33000,	144.73000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+200,K8WNJ-Muskegon2,Analogue,	146.82000,	146.22000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+201,W8ZHO-Muskegon2,Analogue,	146.94000,	146.34000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+202,N8UKF-Muskegon,Analogue,	442.30000,	447.30000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+203,N8KQQ-Muskegon,Analogue,	442.95000,	447.95000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+204,W8ZHO-Muskegon7,Analogue,	444.55000,	449.55000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+205,K8WNJ-Muskegon7,Analogue,	444.95000,	449.95000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+206,KE8LZ-Muskegon,Analogue,	147.38000,	147.98000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+207,N8UKF-Norton Sh.,Analogue,	443.20000,	448.20000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+208,W8CSO-Gr. Haven2,Analogue,	145.49000,	144.89000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+209,W8CSO-Gr. Haven7,Analogue,	443.77500,	448.77500,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+210,W8AOR-Whitehall2,Analogue,	146.68000,	146.08000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+211,W8AOR-Whitehall7,Analogue,	443.25000,	448.25000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+212,N8OBU-Dansville,Analogue,	444.57500,	449.57500,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+213,KC8LMI-Aurelius,Analogue,	443.87500,	448.87500,25,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+214,W8BCI-Okemos,Analogue,	145.39000,	144.79000,25,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+215,KB8UB-Munith,Analogue,	442.32500,	447.32500,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+216,KC8LMI-PleasantL,Analogue,	446.80000,	446.80000,25,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+217,K8DAA-Holland1,Analogue,	146.50000,	147.50000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0.128,0.008,No
+218,K8DAA-Holland2,Analogue,	147.06000,	147.66000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+219,K8DAA-Holland7,Analogue,	443.82500,	448.82500,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+220,N8XPQ-Holland,Analogue,	444.80000,	449.80000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+221,KD8CAO-Zeeland,Analogue,	445.50000,	440.50000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+222,AC9GN-Saugatuck2,Analogue,	146.96000,	146.36000,25,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+223,AC8GN-Saugatuck7,Analogue,	442.70000,	447.70000,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+224,KD8NCN-W. Branch,Analogue,	444.22500,	449.22500,25,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+225,K8OAR-W. Branch,Analogue,	146.94000,	146.34000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+226,W8COP-Sterling,Analogue,	147.06000,	147.66000,25,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
